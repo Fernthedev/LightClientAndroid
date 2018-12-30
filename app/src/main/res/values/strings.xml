@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Light-ClientAndroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="you_have_no_servers_yet">You have no servers yet.</string>
+    <string name="title_activity_server_login">Sign in</string>
+    <string name="error_message_invalidchar">The message can only be alphanumeric</string>
+    <!-- Strings related to login -->
+    <string name="prompt_address">Address</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Connect to server</string>
+    <string name="action_sign_in_short">Connect to server</string>
+    <string name="error_invalid_email">This address is incorrect</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_address_notfound">Server could not be found</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="port">Port</string>
+    <string name="send">Send</string>
+    <string name="message">Message</string>
+    <string name="messageHint">Message</string>
+</resources>

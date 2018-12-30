@@ -1,0 +1,7 @@
+
+Ssquid:S2696+"6Make the enclosing method "static" or remove this set.(Ê«£%8ÜïÌİÿ,
+¤squid:S1186p"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(—µ±şıÿÿÿÿ8ÜïÌİÿ,
+Ÿsquid:S1186k"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ã®¸Â8ÜïÌİÿ,
+"squid:ClassVariableVisibilityCheck"XMake recyclerView a static final constant or non-public and provide accessors if needed.(´Şºƒ8ÜïÌİÿ,
+ysquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(×’Øÿ8ÜïÌİÿ,
+Ysquid:S2696-"6Make the enclosing method "static" or remove this set.(Ç’˜­úÿÿÿÿ8ÜïÌİÿ,

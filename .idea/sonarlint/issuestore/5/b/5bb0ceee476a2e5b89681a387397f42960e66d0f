@@ -1,0 +1,6 @@
+
+@squid:S1068"+Remove this unused "scanner" private field.(Ù‘Ğ
+Esquid:S1068"+Remove this unused "checked" private field.(Î’áÄøÿÿÿÿ
+Osquid:S2387"5"checked" is the name of a field in "WaitForCommand".(Î’áÄøÿÿÿÿ
+Nsquid:S2387"4"client" is the name of a field in "WaitForCommand".(‚Ø–øùÿÿÿÿ
+Jsquid:S2387"5"scanner" is the name of a field in "WaitForCommand".(Ù‘Ğ
